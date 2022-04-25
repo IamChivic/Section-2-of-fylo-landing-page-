@@ -1,0 +1,73 @@
+body {
+
+background-color: hsl(218, 28%, 13%);
+color: hsl(0,0%,100%);
+font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+font-family: 'Raleway', sans-serif;
+
+line-height:1.7;
+
+font-weight:700;
+
+}
+
+h1 {
+
+font-size: 1.7rem;
+}
+
+h2 {
+
+font-size: 1.5rem;
+
+}
+
+h3 {
+
+font-size: 1.4rem;
+
+}
+
+p {
+
+font-family: 'Open Sans', Sans-serif;
+font-size: 14px;
+line-height:1.7;
+padding: 0.5rem 0;
+
+}
+
+.top-features {
+
+display: flex;
+
+flex-wrap: wrap;
+
+justify-content: center;
+align-items: center;
+}
+
+.section {
+width: 33.33%;
+
+padding: 2rem 2.5rem;
+
+text-align: center;}
+
+.mt-hp {
+margin-top: 2rem;
+}
+
+.attribution { 
+
+font-size: 11px; 
+text-align: center; 
+}    
+
+.attribution a { 
+color: hsl(228, 45%, 44%); 
+}  
